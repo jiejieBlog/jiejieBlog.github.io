@@ -4,27 +4,6 @@
   
     
     <entry>
-      <title>数据结构1</title>
-      <link href="/2022/09/22/shu-ju-jie-gou-1/"/>
-      <url>/2022/09/22/shu-ju-jie-gou-1/</url>
-      
-        <content type="html"><![CDATA[<h3 id="test"><a href="#test" class="headerlink" title="test"></a>test</h3><p>asfasdfasd</p><ul><li>阿斯顿发</li></ul>]]></content>
-      
-      
-      <categories>
-          
-          <category> 计算机基础 </category>
-          
-          <category> 数据结构 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>计算机网络</title>
       <link href="/2022/09/22/ji-suan-ji-wang-luo/"/>
       <url>/2022/09/22/ji-suan-ji-wang-luo/</url>
@@ -37,6 +16,27 @@
           <category> 计算机基础 </category>
           
           <category> 计算机网络 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>数据结构1</title>
+      <link href="/2022/09/22/shu-ju-jie-gou-1/"/>
+      <url>/2022/09/22/shu-ju-jie-gou-1/</url>
+      
+        <content type="html"><![CDATA[<h3 id="test"><a href="#test" class="headerlink" title="test"></a>test</h3><p>asfasdfasd</p><ul><li>阿斯顿发</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> 计算机基础 </category>
+          
+          <category> 数据结构 </category>
           
       </categories>
       
